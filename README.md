@@ -1,0 +1,2 @@
+# Home_Renovation_Quote_Decoder___Cost_Comparator
+what='A tool that ingests multiple contractor quotes for a home renovation project (as PDFs, photos of handwritten estimates, or pasted text) and produces a normalized, line-item-by-line-item comparison across all bids — flagging scope gaps, price outliers, ambiguous line items, and missing materials — so the homeowner can make an apples-to-apples 
